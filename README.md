@@ -1,4 +1,4 @@
-# SENG8081-24F-Sec1-Case-project
+# SENG8081-24F-Sec1-Case-project - Vaishali Sharma
 Assignment # 1 - Repository Collaboration and Preparation Assignment
 
 # Steps for assignment
